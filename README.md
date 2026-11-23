@@ -46,3 +46,28 @@ JD
 
 **Status:** Learning in Progress
 
+---
+
+## 02. Employee Information Formatter
+
+**Learning Source:** freeCodeCamp – Python (Guided Learning)
+
+An input-based Python program that collects employee information and formats it using Python string manipulation techniques.
+
+### Concepts Practiced
+- User input using `input()`
+- Variables and data types
+- String manipulation
+- Email cleaning and formatting
+- Phone number formatting
+- Employee code validation
+- String methods (`strip()`, `lower()`, `upper()`, `startswith()`, `endswith()`)
+- F-strings
+
+### Python File
+
+[View employee_profile_validator.py](employee_profile_validator.py)
+
+### Project Status
+Completed – Guided Learning
+
